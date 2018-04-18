@@ -8,3 +8,5 @@ What we want/need:
 * SSL termination so we could connect to CloudFlare (CDN is mandatory, but not enough, in 2018 we need some level of DDoS protection).
 * Enough security by default, so everything is - in theory - lockdown unless we decide to open it.
 * High-availability in different data center regions and zones.
+
+Assuming we use fully 12-factors compliant web app (12 factor)[https://12factor.net/]
